@@ -9782,11 +9782,11 @@
       (effects (font (size 1.524 1.524)) hide)
     )
   )
-  (symbol "Transformer_Block_FL" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "Transformer_DP_DS" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "T" (id 0) (at 0 12.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Transformer_Block_FL" (id 1) (at 0 -12.7 0)
+    (property "Value" "Transformer_DP_DS" (id 1) (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -9801,7 +9801,7 @@
     (property "ki_description" "Transformer, dual primary, dual secondary" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Transformer_Block_FL_0_1"
+    (symbol "Transformer_DP_DS_0_1"
       (arc (start -2.54 -10.1346) (mid -1.6561 -9.7663) (end -1.27 -8.89)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -9915,7 +9915,7 @@
         (fill (type none))
       )
     )
-    (symbol "Transformer_Block_FL_1_1"
+    (symbol "Transformer_DP_DS_1_1"
       (pin passive line (at -10.16 10.16 0) (length 7.62)
         (name "IN1A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
