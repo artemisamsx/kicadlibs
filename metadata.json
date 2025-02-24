@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Artemisa MSX symbols and footprints library",
+    "description": "Symbols, footprints and 3D models used for Artemisa MSX Computer System",
+    "description_full": "Symbols, footprints and 3D models used for Artemisa MSX Computer System",
+    "identifier": "com.github.artemisamsx.kicadlibs",
+    "type": "library",
+    "author": {
+        "name": "Alvaro Polo",
+        "contact": {
+            "web": "https://github.com/artemisamsx"
+        }
+    },
+    "maintainer": {
+        "name": "Alvaro Polo",
+        "contact": {
+            "web": "https://github.com/artemisamsx"
+        }
+    },
+    "license": "open-source",
+    "resources": {
+        "homepage": "https://github.com/artemisamsx/kicadlibs"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
+}
