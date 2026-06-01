@@ -32625,7 +32625,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 0 35.56 0)
+			(at 9.398 35.306 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
