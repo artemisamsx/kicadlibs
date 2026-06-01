@@ -65,7 +65,7 @@
   (pad 39 thru_hole oval (at 15.24 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 20 thru_hole oval (at 0 48.26) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 40 thru_hole oval (at 15.24 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/DIP-40_600.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/DIP-40_600.wrl
     (offset (xyz 7.5 -24 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

@@ -16,7 +16,7 @@
   (pad 1 thru_hole oval (at 1.27 0) (size 1.1 2.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 0 0) (size 1.1 2.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at -1.27 0) (size 1.1 2.2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/TO92.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/TO92.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

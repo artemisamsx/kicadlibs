@@ -24,7 +24,7 @@
   (pad 7 thru_hole circle (at -7.5 -17) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -5 -2.5) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 5 -2.5) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/DIN8.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/DIN8.wrl
     (offset (xyz 0 9.199999999999999 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

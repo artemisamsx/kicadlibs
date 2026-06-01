@@ -47,7 +47,7 @@
   (pad 18 smd rect (at 4.7 -3.175) (size 1.95 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 4.7 -4.445) (size 1.95 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 4.7 -5.715) (size 1.95 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SOIC-20.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SOIC-20.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

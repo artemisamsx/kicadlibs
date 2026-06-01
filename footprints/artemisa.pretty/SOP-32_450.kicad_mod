@@ -57,7 +57,7 @@
   (pad 30 smd roundrect (at 6.55 -6.985) (size 2.05 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 31 smd roundrect (at 6.55 -8.255) (size 2.05 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 32 smd roundrect (at 6.55 -9.525) (size 2.05 0.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SOP-32_450.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SOP-32_450.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

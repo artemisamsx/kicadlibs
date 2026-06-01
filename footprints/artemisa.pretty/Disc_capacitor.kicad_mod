@@ -26,7 +26,7 @@
   (fp_line (start -1.143 -1.397) (end 3.683 -1.397) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/Disc_capacitor.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/Disc_capacitor.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 0.5 1))
     (rotate (xyz 0 0 0))

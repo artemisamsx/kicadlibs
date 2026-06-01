@@ -34,7 +34,7 @@
   (pad 2 smd rect (at 2.54 2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.54 -2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2.54 -2.1) (size 1.8 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SG7050.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/SG7050.wrl
     (at (xyz 0 0 0))
     (scale (xyz 3 3 1))
     (rotate (xyz 0 0 0))

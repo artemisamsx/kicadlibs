@@ -75,7 +75,7 @@
   (pad 3 thru_hole circle (at 27.94 -2.425 270) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 30.48 2.425 270) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 30.48 -2.425 270) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KICAD8_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/Slot_conn.wrl
+  (model ${KICAD6_3RD_PARTY}/3dmodels/com_github_artemisamsx_kicadlibs/artemisa.3dshapes/Slot_conn.wrl
     (offset (xyz 0 0 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 90))
