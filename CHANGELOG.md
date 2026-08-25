@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Schematic symbol for MIC1232
 - Schematic symbol for MCP6284.
 
+### Fixed
+
+- Remove wrong power pins in secondary units of 7408
+
 ## [1.1.2] - 2026-06-01
 
 ### Fixed
