@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Schematic symbol for MCP6284.
 - Schematic symbol for SG-531
 - Footprint for SG-531
+- Footprint for JST-XH 4 pin
 
 ### Fixed
 
