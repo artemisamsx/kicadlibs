@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Remove wrong power pins in secondary units of 7408
+- Wrong references to 3D models in several footprints
 
 ## [1.1.2] - 2026-06-01
 
